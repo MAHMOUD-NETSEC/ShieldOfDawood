@@ -55,6 +55,16 @@ Without disabling Smart App Control, Windows 11 may prevent the application from
 This does **not** indicate malware behavior.  
 The application is blocked solely because it is a custom, unsigned security tool.
 
+## ⚠️ Windows SmartScreen Notice
+
+When launching Shield of Dawood, Windows may display a **SmartScreen warning** indicating that the application is from an unknown publisher.
+
+This is expected behavior for **custom-built, unsigned security tools** and does **not** indicate malware or malicious activity.
+
+To proceed, select **More info** → **Run anyway**.
+
+Future releases may include a digital signature to reduce or eliminate this warning.
+
 
 ---
 
