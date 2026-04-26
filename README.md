@@ -69,8 +69,6 @@ When launching Shield of Dawood, Windows may display a SmartScreen warning indic
 * Administrator privileges are mandatory for correct operation.
 * **Disclaimer:** This project is provided for defensive security research and educational use only. Unauthorized monitoring of networks you do not own or have permission to analyze may be illegal.
 
-*Developed by Mahmoud Hamadah
-
 
 
 ---
